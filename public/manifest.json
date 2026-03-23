@@ -1,0 +1,14 @@
+{
+  "name": "RunIQ",
+  "short_name": "RunIQ",
+  "description": "Elite AI running coach — track, analyse, dominate.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060911",
+  "theme_color": "#7C5CFC",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
